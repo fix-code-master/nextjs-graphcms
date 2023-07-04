@@ -1,0 +1,34 @@
+<<=NextJS=>><<=NextJS=>>
+NextJS -Next JS haqida qisqacha
+
+Izohlar orasida Next JS nima degan savollar uchrab turibdi, shu sababli yana ushbu texnologiyaga to'xtalishga qaror qildim.
+
+— Next JS nima va uning vazifasi?
+
+Next JS - ochiq manbali ishlab chiqish framework bo'lib, u sizga juda qulay va samarador statik veb-saytlarni, shuningdek, Reactga asoslangan veb-ilovalarni tuzish imkonini beradi.
+
+— Next JS bilan nima qurish mumkin?
+
+Ushbu texnologiyani siz: MVP(A minimum viable product), Single page hamda Statik saytlar, SaaS mahsulotlar, eCommerce, Dashboard va shu kabi loyihalarga qo'llashingiz mumkin.
+
+— Nima sababdan bu texnologiyani tanlashingiz kerak?
+
+Tanlashning katta sababi uning SEO taraflama kuchli ekanligidir. Ya'ni Nextda Server-Side Rendering (SSR), Static Site Generation (SSG), Typescriptni qo'llab quvvatlash, Zero config va boshqa xususiyatlari mavjud. 
+<<=NextJS=>><<=NextJS=>>
+
+
+<<=GraphQL=>><<=GraphQL=>>
+GraphQL - request, response olish, tip tizimi va bir nechta joydan malumot ololadi, malumot yigadi va yig'ishni osonlashtiradi
+
+Basmalasi --> npm i graphql graphql-request html-react-parser moment moment react-multi-carousel sass 
+<<=GraphQL=>><<=GraphQL=>>
+
+
+<<=NextJS=>><<=NextJS=>>
+Basmalasi --> npx create-next-app .
+--> npm install -D tailwindcss postcss autoprefixer
+--> npx tailwindcss init -p
+npm run dev
+<<=NextJS=>><<=NextJS=>>
+
+
